@@ -1,31 +1,31 @@
-header{
+header {
     font-weight: 500;
 
 }
 
 
 
-body{
+body {
     text-align: center;
     font-style: normal;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 20px;
 }
 
-thead, tbody{
+#nimp {
     border-style: solid;
-    border: 3px white;
+    border: 3px solid black;
     text-align: left;
     font-size-adjust: none;
     border-collapse: collapse
 }
 
-table, caption{
+table, caption {
     caption-side: bottom;
     font-size: 15px;
 }
 
-em{
+em {
     font-style: normal;
     text-emphasis: none;
 
