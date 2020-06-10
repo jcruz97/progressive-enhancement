@@ -20,7 +20,7 @@ body {
     border-collapse: collapse
 }
 
-table, caption {
+#nimp, caption {
     caption-side: bottom;
     font-size: 15px;
 }
